@@ -1,1 +1,2 @@
 # Deneme
+İlk commit
